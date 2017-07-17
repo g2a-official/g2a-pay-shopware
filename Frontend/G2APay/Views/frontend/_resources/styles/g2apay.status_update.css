@@ -1,0 +1,22 @@
+
+.g2apay__payment {
+    margin:10px 0 10px 20px
+}
+.g2apay__payment h2, .g2apay__payment .error, .g2apay__payment .notice {
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.g2apay__payment .ajaxSlider {
+    height: 150px;
+    border: 0 none;
+}
+
+.g2apay__payment .loader {
+    width: 300px;
+    margin-left: -160px;
+}
+
+.g2apay__payment .g2apay__payment-message {
+    display: none;
+}
