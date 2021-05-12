@@ -1,4 +1,6 @@
-# G2A Pay module for Shopware
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+## G2A Pay module for Shopware
 
 Shopware - a multi-award winning eCommerce software, Shopware provides customers with a stylish platform for them to build and manage a fully responsive online shopping experience for the end customer on every device. It can also be shaped and extended to satisfy the unique requirements of any business. Thanks to the highly-skilled developer teams at Shopware that are involved in the constant process development and improvement, the plugin system makes it possible to extend both the front and backend to meet customers’ need and requirements without losing the ability to make all the necessary software updates and upgrades.
 
